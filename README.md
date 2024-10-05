@@ -36,3 +36,49 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/KishorKudnar/calculator-project.git
 
+2. Navigate to the project directory:
+   ```bash
+   cd calculator-project
+## Usage
+
+1. Open index.html in your preferred web browser.
+2. Click on the buttons to perform calculations.
+3. Use the clear (C) button to reset the calculator.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or features, please fork the repository and submit a pull request.
+
+1. Fork the repository.
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/YourFeature
+3. Commit your changes:
+   ```bash
+   git commit -m "Add some feature"
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+5. Open a pull request.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+### Explanation of Sections
+- **Demo**: Optionally, you can add a screenshot or a link to a live demo if available.
+- **Features**: Briefly list the main functionalities of your calculator.
+- **Technologies Used**: Mention the technologies and languages you've used in the project.
+- **Installation**: Provide clear instructions for anyone who wants to run the project locally.
+- **Usage**: Explain how to use the calculator.
+- **Contributing**: Encourage others to contribute and explain how they can do it.
+- **License**: Specify the license under which the project is released (you can choose MIT, GPL, etc.).
+
+### Adding to Your Repository
+To add this README file to your GitHub repository:
+1. Create a new file in your project folder named `README.md`.
+2. Copy and paste the above content into the `README.md` file.
+3. Save the file and commit it to your repository:
+   ```bash
+   git add README.md
+   git commit -m "Add README file"
+   git push origin master
+Feel free to customize the README content as per your preferences or project specifics! If you have any questions, let me know!
