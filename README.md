@@ -14,7 +14,8 @@ A simple calculator web application built using HTML, CSS, and JavaScript. This 
 
 ## Demo
 
-![Calculator Demo](path_to_your_screenshot_image)
+![Calculator Screenshot](https://github.com/KishorKudnar/calculator-project/raw/main/output.png)
+
 
 ## Features
 
